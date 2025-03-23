@@ -1,0 +1,11 @@
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\UserManagementApp.exe
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\UserManagementApp.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\UserManagementApp.deps.json
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\UserManagementApp.runtimeconfig.json
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\UserManagementApp.pdb
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\System.Data.SqlClient.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\runtimes\win-arm64\native\sni.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\runtimes\win-x64\native\sni.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\runtimes\win-x86\native\sni.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\bin\Release\net9.0\publish\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

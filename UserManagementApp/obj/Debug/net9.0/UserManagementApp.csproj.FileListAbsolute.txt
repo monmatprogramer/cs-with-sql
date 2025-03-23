@@ -20,3 +20,4 @@ D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\obj\
 D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\obj\Debug\net9.0\UserManagementApp.pdb
 D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\obj\Debug\net9.0\UserManagementApp.genruntimeconfig.cache
 D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\obj\Debug\net9.0\ref\UserManagementApp.dll
+D:\MonMat\Master_IT\2_Java\1_project\cs\UserManagementApp\UserManagementApp\obj\Debug\net9.0\UserManagementApp.sourcelink.json

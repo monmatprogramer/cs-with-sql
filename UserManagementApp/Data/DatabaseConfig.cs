@@ -18,7 +18,7 @@ namespace UserManagementApp.Data
 
                 // SQL Server Authentication
                 //return $"Server={server};Database={database};User Id={userId};Password={password};";
-                return @"Server=LAPTOP-F8UMHM18\\SQLEXPRESS;Database=UserRegistrationDB;Trusted_Connection=True;TrustServerCertificate=True;";
+                 return @"Server=LAPTOP-F8UMHM18\SQLEXPRESS;Database=UserRegistrationDB;Trusted_Connection=True;TrustServerCertificate=True;";
                 // For Windows Authentication, use:
                 // return $"Server={server};Database={database};Trusted_Connection=True;";
             }
