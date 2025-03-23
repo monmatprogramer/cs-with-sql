@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Data",
+    "\\Data\\Repositories",
+    "\\Models",
+    "\\Services",
+    "\\UI",
+    "\\Utils"
+  ],
+  "SelectedNode": "\\Data\\DatabaseConfig.cs",
+  "PreviewInSolutionExplorer": false
+}
